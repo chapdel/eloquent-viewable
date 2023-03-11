@@ -1,5 +1,5 @@
 {
-    "name": "cyrildewit/eloquent-viewable",
+    "name": "chapdel/eloquent-viewable",
     "description": "Laravel package that allows you to associate views with Eloquent models",
     "type": "library",
     "license": "MIT",
@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.4|^8.0|^8.2|^8.2",
         "illuminate/cache": "^6.0|^7.0|^8.0|^9.0|^10.0",
         "illuminate/contracts": "^6.0|^7.0|^8.0|^9.0|^10.0",
         "illuminate/cookie": "^6.0|^7.0|^8.0|^9.0|^10.0",
